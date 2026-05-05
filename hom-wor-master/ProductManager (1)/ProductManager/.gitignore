@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.idea/
+*.db
+products.db
+*.rar
+*.zip
+*.7z
+.env
